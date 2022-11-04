@@ -19,8 +19,6 @@ const CustomListItem = ({ id, chatName, enterChat }) => {
     return unSubscribe;
   }, []);
 
-  console.log("chatMessages", chatMessages);
-
   return (
     <TouchableOpacity
       style={styles.container}
