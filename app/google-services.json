@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885517006728",
+    "project_id": "signal2-clone",
+    "storage_bucket": "signal2-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885517006728:android:9f28fd2ae9a7482e41ec3d",
+        "android_client_info": {
+          "package_name": "test.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885517006728-bveaq6jr88r1t2r36jgshtgi7n6i7dr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-VuCpCyQP-pC5DEyxDHbIt63mFh6xlOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885517006728-bveaq6jr88r1t2r36jgshtgi7n6i7dr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
